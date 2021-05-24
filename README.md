@@ -1,42 +1,43 @@
 # ProgrammingProtfolio2021A1
-##Carmella Croft
+Carmella Croft
 carmella.croft@gmail.com
 
-###Space Game
+Space Game
+object oreented, user conntroled game
 
 
 
 
 
 
-####Calculator
+Calculator
 Fully workable basic calculator
 
 
 
 
-#####Screensavor
+Screensavor
 Randome screensavor generater 
 
 
 
 
 
-######etchaSketch
+etchaSketch
 User controllable drawing progrmae that replicates the game EtchaSketch
 
 
 
 
 
-#######MadLibs
+MadLibs
 A user entery madlibs
 
 
 
 
 
-########Number Guessing Games
+Number Guessing Games
 A random gerneator of a number the user trys to guess
 
 
