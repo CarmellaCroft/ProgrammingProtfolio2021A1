@@ -4,7 +4,7 @@ carmella.croft@gmail.com
 
 Space Game
 
-object oreented, user conntroled game
+OOP, user conntroled game, Source file [here]().
 ![SpaceGame](https://github.com/CarmellaCroft/ProgrammingProtfolio2021A1/blob/gh-pages/Images/SpaceGameSS2.png?raw=true)
 
 
@@ -13,14 +13,14 @@ object oreented, user conntroled game
 
 Calculator
 
-Fully workable basic calculator
+Fully workable basic calculator  Source file here.
 ![Calculator](https://github.com/CarmellaCroft/ProgrammingProtfolio2021A1/blob/gh-pages/Images/CaculatorSS1p.png?raw=true)
 
 
 
 Screensavor
 
-Randome screensavor generater 
+Randome screensavor generater Source file here.
 ![Screensavor](https://github.com/CarmellaCroft/ProgrammingProtfolio2021A1/blob/gh-pages/Images/ScreenSavorSS1p.png?raw=true)
 
 
@@ -29,7 +29,7 @@ Randome screensavor generater
 
 etchaSketch
 
-User controllable drawing progrmae that replicates the game EtchaSketch
+User controllable drawing progrmae that replicates the game EtchaSketch Source file here.
 ![Etchasketch](https://github.com/CarmellaCroft/ProgrammingProtfolio2021A1/blob/gh-pages/Images/EtchasktchSS1p.png?raw=true)
 
 
@@ -38,7 +38,7 @@ User controllable drawing progrmae that replicates the game EtchaSketch
 
 MadLibs
 
-A user entery madlibs
+A user entery madlibs Source file here.
 
 
 
@@ -46,6 +46,6 @@ A user entery madlibs
 
 Number Guessing Games
 
-A random gerneator of a number the user trys to guess
+A random gerneator of a number the user trys to guess   Source file here.
 
 
